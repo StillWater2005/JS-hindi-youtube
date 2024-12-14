@@ -35,3 +35,4 @@ let accountIsPremium = true
 console.log(typeof accountIsPremium)
 //Object
 console.log(typeof console)
+console.log(accountSymbol)
