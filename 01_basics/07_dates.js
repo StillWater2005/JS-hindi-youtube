@@ -1,0 +1,6 @@
+let current_time = Date.now()
+let birthdate = new Date("11-26-2005")
+let independence_day = new Date(1947,7,15)
+console.log(birthdate.toDateString())
+console.log(birthdate.toISOString())
+console.log(independence_day)
